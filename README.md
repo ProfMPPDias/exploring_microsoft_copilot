@@ -3,7 +3,7 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído(28/Mar/2024)-green)
+![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído(20/Mar/2025)-green)
 
 
 
