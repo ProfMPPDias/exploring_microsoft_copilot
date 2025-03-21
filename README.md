@@ -1,4 +1,4 @@
-# Lab Project 05 - Explorando IA Generativa com Microsoft Copilot
+# Resumo IA Generativa com Microsoft Copilot
 
 
 
